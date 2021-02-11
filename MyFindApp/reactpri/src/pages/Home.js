@@ -71,7 +71,7 @@ export default function Home() {
 									image="https://i.mycdn.me/videoPreview?id=892693121675&type=32&idx=7&tkn=SmXCefssga_sFbgI8nNIW2L4uBk&fn=external_8"
 									title="Image title"
 								/>
-								<CardContent className='classes.cardContent '>
+								<CardContent className='classes.cardContent'>
 									<Typography variant='h5' gutterBottom>
 										Предмет
 									</Typography>
